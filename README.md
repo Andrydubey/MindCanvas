@@ -5,17 +5,7 @@
   
   <h3>Transform Thoughts into Visual Masterpieces</h3>
   
-  <p>A powerful mind mapping and visual thinkin## 📧 Contact
-
-Andry Dubey - [@Andrydubey](https://github.com/Andrydubey)
-
-Project Link: [https://github.com/Andrydubey/MindCanvas](https://github.com/Andrydubey/MindCanvas)
-
----
-
-<div align="center">
-  <p>Made with ❤️ by Andry</p>
-</div>t with modern web technologies</p>
+  <p>A powerful mind mapping and visual thinking tool built with modern web technologies</p>
 
   <div>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
@@ -239,12 +229,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-Khushi Pandey - [@khushipandey_15](https://github.com/khushipandey-15)
+Andry Dubey - [@Andrydubey](https://github.com/Andrydubey)
 
-Project Link: [https://github.com/khushipandey-15/MindCanvas](https://github.com/khushipandey-15/MindCanvas)
+Project Link: [https://github.com/Andrydubey/MindCanvas](https://github.com/Andrydubey/MindCanvas)
 
 ---
 
 <div align="center">
-  <p>Made with ❤️ by Khushi Pandey</p>
+  <p>Made with ❤️ by Andry Dubey</p>
 </div>
